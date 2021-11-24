@@ -52,10 +52,7 @@ img{
     font-family: none;
     background: #efefef;
   }
-.navbar , .showcase
-{
-  position: sticky;
-}
+
 footer{
   background: #212529;
 }
