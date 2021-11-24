@@ -1,2 +1,2 @@
 # Portfolio
-My first Portfolio as beginner!!
+My first Portfolio as a beginner!!
