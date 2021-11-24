@@ -50,7 +50,7 @@ img{
   }
   body{
     font-family: none;
-    background: #efefef;
+    background: #fffff;
   }
 
 footer{
@@ -63,3 +63,10 @@ footer{
 }
 .card-title{
   font-size: 2.2rem;
+}
+.card-body{
+  background-color: #efeffd; 
+}
+.cssshadow{
+  box-shadow: 10px 10px 5px 5px;
+}
